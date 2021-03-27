@@ -17,7 +17,7 @@ def main():
     auto_zwei.zeige_daten()
 
     print("Neues Auto erzeugt")
-    print("Hier wurde ein Fehler eingebaut!")
+    print("Der Fehler wurde behoben!")
 
     auto_eins.strecke_fahren(64)
     auto_zwei.strecke_fahren(128)
