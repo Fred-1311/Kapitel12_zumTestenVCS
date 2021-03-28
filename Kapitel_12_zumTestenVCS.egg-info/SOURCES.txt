@@ -1,0 +1,8 @@
+Auto.py
+Beispiel_12_1.py
+eigene_versuche.py
+setup.py
+Kapitel_12_zumTestenVCS.egg-info/PKG-INFO
+Kapitel_12_zumTestenVCS.egg-info/SOURCES.txt
+Kapitel_12_zumTestenVCS.egg-info/dependency_links.txt
+Kapitel_12_zumTestenVCS.egg-info/top_level.txt
