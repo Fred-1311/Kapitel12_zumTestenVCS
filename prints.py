@@ -1,0 +1,1 @@
+print("Eine Ausgabe in prints")
